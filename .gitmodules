@@ -1,0 +1,4 @@
+[submodule "externl/SDL"]
+	path = externl/SDL
+	url = git@github.com:libsdl-org/SDL.git
+	branch = release-3.4.x
