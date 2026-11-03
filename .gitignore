@@ -5,3 +5,6 @@
 /cmake-build-*/
 build
 .vscode
+externl 
+external 
+sdl_lib
